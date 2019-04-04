@@ -1,0 +1,9 @@
+name: BedWars
+version: 1.0.0
+author: OxLemonxO
+description: A bed wars plugin
+main: me.oxlemonxo.Bedwars
+depend:
+- Citizens
+- ProtocolLib
+
